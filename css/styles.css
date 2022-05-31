@@ -551,10 +551,13 @@ img {
   fill: var(--primary-white-color);
 }
 
-.footer-label {
-  position: relative;
+.footer-form .form {
   display: flex;
   justify-content: space-between;
+}
+
+.footer-label {
+  position: relative;
 }
 
 .footer-form .form-input {
