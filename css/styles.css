@@ -552,6 +552,7 @@ img {
 }
 
 .footer-form .form {
+  position: relative;
   display: flex;
   justify-content: space-between;
 }
